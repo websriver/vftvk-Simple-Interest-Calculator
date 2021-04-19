@@ -1,4 +1,29 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+	line-height: 135%;
+	background-color: black;
+}
+h1{
 
-
+}
+#result{
+		
+}
+#result span{
+	display: inline-block;
+	background-color: yellow;
+}
+section{
+	width: 50%;
+	margin: 0 auto;
+	border: 2px solid black;
+	border-radius: 25px;
+	background-color: white;
+	padding: 1em 2em 10em 2em;
+}
+section > div {
+    padding: 5px;
+    display: flex;
+}
+section label{
+	padding-right: 10px;
+}
