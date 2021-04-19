@@ -18,7 +18,7 @@ section{
 	border: 2px solid black;
 	border-radius: 25px;
 	background-color: white;
-	padding: 1em 2em 10em 2em;
+	padding: 1em 2em;
 }
 section > div {
     padding: 5px;
@@ -26,4 +26,7 @@ section > div {
 }
 section label{
 	padding-right: 10px;
+}
+footer{
+	padding-top: 5em;
 }
